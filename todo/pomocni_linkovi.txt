@@ -1,0 +1,13 @@
+Tutorijal:
+	https://www.youtube.com/watch?v=fEqOW6FrokA
+
+Podesavanje za virtuelnenv:
+	https://tech.serhatteker.com/post/2018-12/virtualenv/
+	
+Pri pokretanju ovoga:
+	1. Prvo pokreni venv u prvom folderu "todo" sa:
+		source .venv/bin/activate
+	2. Pokreni server sa:
+		python manage.py runserver
+	3. Kad zavrsis deaktiviraj venv sa:
+		deactivate
