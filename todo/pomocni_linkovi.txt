@@ -6,8 +6,13 @@ Podesavanje za virtuelnenv:
 	
 Pri pokretanju ovoga:
 	1. Prvo pokreni venv u prvom folderu "todo" sa:
-		source .venv/bin/activate
+		Linux:
+			source .venv/bin/activate
+		Windows:
+			Samo pokreni sve u git bash konzoli
+
 	2. Pokreni server sa:
+		(Na novoj masini instaliraj Django ako vec nije instaliran)
 		python manage.py runserver
 	3. Kad zavrsis deaktiviraj venv sa:
 		deactivate
